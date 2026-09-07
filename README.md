@@ -18,9 +18,9 @@ En **[CodeEnergy](https://codeenergy.org)**, no solo programamos; diseñamos est
 
 ---
 ### 🏢 Ejmeplos De Proyectos En Linea :
-+ ++ Beepleasure.com
-+ ++ Scoopnewspaper.com
-+ ++ Atlascine.com
++ ++ atlascine.com
++ ++ bivu.es
++ ++ codeenergy.org
 + ........ mas
 
 ## 🤝 Conectemos
