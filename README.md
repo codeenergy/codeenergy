@@ -2,7 +2,7 @@
 
   <!-- Banner Superior Negro con Texto Blanco -->
   <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=Abdelkarim%20Boukaid&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Tech%20Lead%20@%20CodeEnergy.org%20%7C%20Software%20Architect&descSize=16&descAlignY=62" width="100%" alt="Header Banner" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=Abdelkarim%20Boukaid%20El%20Ghami&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Tech%20Lead%20@%20CodeEnergy.org%20%7C%20Software%20Architect&descSize=16&descAlignY=62" width="100%" alt="Header Banner" />
   </p>
 
   <!-- Badges Principales -->
