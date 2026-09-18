@@ -70,9 +70,10 @@ En **[CodeEnergy](https://codeenergy.org)**, no solo programamos; diseñamos est
 ### 📊 GitHub Activity & Metrics
 
 <!-- Reemplaza "TU_USUARIO_GITHUB" por tu nombre exacto de usuario en GitHub -->
+
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=codeenergy&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeenergy&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
