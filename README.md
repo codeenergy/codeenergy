@@ -120,24 +120,12 @@
 
 <br>
 
-## Actividad
+## Código y confidencialidad
 
-<!-- Si prefieres no mostrar métricas mientras el perfil tenga pocos repositorios públicos, borra este bloque. -->
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=codeenergy&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=D6FF3F&icon_color=D6FF3F&text_color=A1A1AA">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=codeenergy&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=4D7C0F&icon_color=4D7C0F&text_color=3F3F46" alt="Estadísticas de GitHub">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=codeenergy&layout=compact&hide_border=true&bg_color=00000000&title_color=D6FF3F&text_color=A1A1AA">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeenergy&layout=compact&hide_border=true&bg_color=00000000&title_color=4D7C0F&text_color=3F3F46" alt="Lenguajes más usados">
-</picture>
-
-</div>
-
-<br>
+> [!NOTE]
+> La mayor parte de mi trabajo vive en repositorios privados de cliente, bajo acuerdo de confidencialidad.
+> Lo que sí puedes evaluar está en producción: **[atlascine.com](https://atlascine.com)**, **[bivu.es](https://bivu.es)** y **[codeenergy.org](https://codeenergy.org)**.
+> Si necesitas revisar código antes de trabajar conmigo, escríbeme y preparo un extracto representativo o una sesión técnica.
 
 ## Hablemos
 
