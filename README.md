@@ -127,6 +127,8 @@
 > Lo que sí puedes evaluar está en producción: **[atlascine.com](https://atlascine.com)**, **[bivu.es](https://bivu.es)** y **[codeenergy.org](https://codeenergy.org)**.
 > Si necesitas revisar código antes de trabajar conmigo, escríbeme y preparo un extracto representativo o una sesión técnica.
 
+<br>
+
 ## Hablemos
 
 > [!NOTE]

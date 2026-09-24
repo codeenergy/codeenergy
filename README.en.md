@@ -127,6 +127,8 @@
 > What you can evaluate is live in production: **[atlascine.com](https://atlascine.com)**, **[bivu.es](https://bivu.es)** and **[codeenergy.org](https://codeenergy.org)**.
 > If you need to review code before working with me, get in touch and I'll prepare a representative extract or a technical walkthrough.
 
+<br>
+
 ## Let's talk
 
 > [!NOTE]
