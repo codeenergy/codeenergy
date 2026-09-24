@@ -1,0 +1,154 @@
+<div align="center">
+
+[Español](./README.md) &nbsp;·&nbsp; [English](./README.en.md) &nbsp;·&nbsp; **Français**
+
+<a href="https://codeenergy.org">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/header-fr-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/header-fr-light.svg">
+    <img src="./assets/header-fr-dark.svg" alt="Abdelkarim Boukaid El Ghami — Tech Lead & Software Architect" width="100%">
+  </picture>
+</a>
+
+<br>
+
+<a href="https://codeenergy.org"><img src="https://img.shields.io/badge/codeenergy.org-0D1117?style=flat-square&logo=googlechrome&logoColor=D6FF3F&labelColor=0D1117" alt="Site web"></a>
+<a href="https://www.linkedin.com/in/abdelkarimboukaidelghami"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=0D1117" alt="LinkedIn"></a>
+<a href="mailto:info@codeenergy.org"><img src="https://img.shields.io/badge/info@codeenergy.org-0D1117?style=flat-square&logo=maildotru&logoColor=EA4335&labelColor=0D1117" alt="Email"></a>
+<img src="https://img.shields.io/badge/Disponible_pour_vos_projets-0D1117?style=flat-square&logo=statuspage&logoColor=D6FF3F&labelColor=0D1117" alt="Disponibilité">
+
+</div>
+
+<br>
+
+> **La technologie doit être le moteur de votre activité, pas son frein.**
+>
+> Je conçois et construis des plateformes qui tiennent face à une croissance réelle : web, mobile et infrastructure cloud.
+> Plus de **5 ans** à diriger des équipes et **+150 projets** livrés pour des startups, des PME et des entrepreneurs.
+
+<br>
+
+## Ce que je fais
+
+| Domaine | Ce que je livre | Stack principale |
+| :--- | :--- | :--- |
+| **Produit web** | Plateformes SSR et headless, back-offices, e-commerce et SaaS | Next.js · React · TypeScript |
+| **Applications mobiles** | Applications natives et hybrides publiées sur l'App Store et Google Play | Flutter · React Native |
+| **Infrastructure cloud** | Architecture serverless, CI/CD, observabilité et maîtrise des coûts | Google Cloud · Firebase · Node.js |
+| **Conseil technique** | Audit de code, performance, sécurité et plans de migration | Lighthouse · Trivy · k6 |
+
+<br>
+
+## Projets en production
+
+| Projet | De quoi il s'agit | Lien |
+| :--- | :--- | :--- |
+| **AtlasCine** | Plateforme de contenu audiovisuel avec catalogue et lecture en streaming | [atlascine.com](https://atlascine.com) |
+| **Bivu** | Produit digital orienté service, avec son propre back-office | [bivu.es](https://bivu.es) |
+| **CodeEnergy** | Studio d'ingénierie logicielle : stratégie, design et développement | [codeenergy.org](https://codeenergy.org) |
+
+<br>
+
+## Stack
+
+<table>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=0D1117" alt="Next.js">
+      <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB&labelColor=0D1117" alt="React">
+      <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=0D1117" alt="TypeScript">
+      <img src="https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwindcss&logoColor=38BDF8&labelColor=0D1117" alt="Tailwind CSS">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Mobile</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Flutter-0D1117?style=flat-square&logo=flutter&logoColor=02569B&labelColor=0D1117" alt="Flutter">
+      <img src="https://img.shields.io/badge/Dart-0D1117?style=flat-square&logo=dart&logoColor=0175C2&labelColor=0D1117" alt="Dart">
+      <img src="https://img.shields.io/badge/React_Native-0D1117?style=flat-square&logo=react&logoColor=61DAFB&labelColor=0D1117" alt="React Native">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=5FA04E&labelColor=0D1117" alt="Node.js">
+      <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1&labelColor=0D1117" alt="PostgreSQL">
+      <img src="https://img.shields.io/badge/Firestore-0D1117?style=flat-square&logo=firebase&logoColor=FFCA28&labelColor=0D1117" alt="Firestore">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Cloud &amp; DevOps</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Google_Cloud-0D1117?style=flat-square&logo=googlecloud&logoColor=4285F4&labelColor=0D1117" alt="Google Cloud">
+      <img src="https://img.shields.io/badge/Firebase-0D1117?style=flat-square&logo=firebase&logoColor=FFCA28&labelColor=0D1117" alt="Firebase">
+      <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED&labelColor=0D1117" alt="Docker">
+      <img src="https://img.shields.io/badge/GitHub_Actions-0D1117?style=flat-square&logo=githubactions&logoColor=2088FF&labelColor=0D1117" alt="GitHub Actions">
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## Ma méthode
+
+<details>
+<summary><b>Le processus, en quatre phases</b></summary>
+
+<br>
+
+**1 · Découverte.** Je comprends l'activité avant le code. Objectifs, utilisateurs, contraintes et définition concrète du succès.
+
+**2 · Architecture.** Des décisions écrites et justifiées : stack, modèle de données, limites du système et coût d'exploitation estimé.
+
+**3 · Livraison incrémentale.** Des versions fonctionnelles dès la première semaine, avec tests automatisés et déploiement continu.
+
+**4 · Exploitation.** Supervision, budget de performance et plan de maintenance clair. Le projet ne s'arrête pas à la livraison.
+
+</details>
+
+<details>
+<summary><b>Des principes non négociables</b></summary>
+
+<br>
+
+- **Performance mesurable.** Core Web Vitals au vert et tests de charge avant la mise en production, pas après.
+- **Sécurité par défaut.** Dépendances auditées, secrets hors du dépôt et moindre privilège.
+- **Un code maintenable par quelqu'un d'autre.** Décisions documentées et zéro dépendance injustifiée.
+
+</details>
+
+<br>
+
+## Activité
+
+<!-- Supprimez ce bloc si vous préférez ne pas afficher de métriques tant que le profil a peu de dépôts publics. -->
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=codeenergy&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=D6FF3F&icon_color=D6FF3F&text_color=A1A1AA">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=codeenergy&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=4D7C0F&icon_color=4D7C0F&text_color=3F3F46" alt="Statistiques GitHub">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=codeenergy&layout=compact&hide_border=true&bg_color=00000000&title_color=D6FF3F&text_color=A1A1AA">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeenergy&layout=compact&hide_border=true&bg_color=00000000&title_color=4D7C0F&text_color=3F3F46" alt="Langages les plus utilisés">
+</picture>
+
+</div>
+
+<br>
+
+## Parlons-en
+
+> [!NOTE]
+> Je travaille avec un nombre limité de clients à la fois afin de maintenir le niveau de livraison.
+> Si vous avez un projet en tête, écrivez-moi avec le contexte et je vous réponds par une première évaluation technique, sans engagement.
+
+**E-mail** · [info@codeenergy.org](mailto:info@codeenergy.org) &nbsp;&nbsp;|&nbsp;&nbsp; **Web** · [codeenergy.org](https://codeenergy.org) &nbsp;&nbsp;|&nbsp;&nbsp; **LinkedIn** · [Abdelkarim Boukaid El Ghami](https://www.linkedin.com/in/abdelkarimboukaidelghami)
+
+<br>
+
+<div align="center">
+<sub>Conçu avec une exigence d'ingénierie · <b>CodeEnergy</b></sub>
+</div>

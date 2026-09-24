@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" fill="none" role="img" aria-label="Abdelkarim Boukaid El Ghami - Tech Lead and Software Architect">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#F1F2F4"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1010 150) rotate(118) scale(430)">
+      <stop stop-color="#4D7C0F" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#4D7C0F" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="1.6" cy="1.6" r="1.6" fill="#09090B" fill-opacity="0.055"/>
+    </pattern>
+    <linearGradient id="rule" x1="72" y1="0" x2="560" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4D7C0F"/>
+      <stop offset="1" stop-color="#4D7C0F" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="card"><rect width="1200" height="320" rx="18"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="1200" height="320" fill="url(#bg)"/>
+    <rect width="1200" height="320" fill="url(#dots)"/>
+    <rect width="1200" height="320" fill="url(#glow)"/>
+
+    <g stroke="#09090B" fill="none">
+      <circle cx="1010" cy="150" r="62" stroke-opacity="0.10"/>
+      <circle cx="1010" cy="150" r="100" stroke-opacity="0.075"/>
+      <circle cx="1010" cy="150" r="138" stroke-opacity="0.05"/>
+    </g>
+    <path d="M1010 50 A100 100 0 0 1 1110 150" stroke="#4D7C0F" stroke-width="2" stroke-linecap="round" fill="none"/>
+    <circle cx="1010" cy="150" r="5" fill="#4D7C0F"/>
+
+    <g transform="translate(72 96)">
+      <rect x="0" y="-7" width="7" height="7" rx="1.5" fill="#4D7C0F"/>
+      <text x="20" y="0" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, monospace" font-size="12.5" font-weight="600" letter-spacing="3.4" fill="#52525B">TECH LEAD &#183; SOFTWARE ARCHITECT</text>
+    </g>
+
+    <text x="72" y="176" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="48" font-weight="800" letter-spacing="-1.6" fill="#09090B">Abdelkarim Boukaid El Ghami</text>
+
+    <text x="72" y="214" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="18.5" font-weight="500" letter-spacing="-0.2" fill="#52525B">Digital product architecture and engineering at <tspan fill="#09090B" font-weight="600">CodeEnergy</tspan></text>
+
+    <rect x="72" y="242" width="470" height="2" rx="1" fill="url(#rule)"/>
+
+    <text x="72" y="278" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, monospace" font-size="12.5" letter-spacing="0.6" fill="#71717A">+150 projects delivered &#160;&#183;&#160; 5+ years &#160;&#183;&#160; Next.js &#183; Flutter &#183; Google Cloud</text>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="319" rx="17.5" stroke="#09090B" stroke-opacity="0.10"/>
+</svg>

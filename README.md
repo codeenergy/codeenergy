@@ -1,90 +1,154 @@
 <div align="center">
 
-  <!-- Banner Superior Negro con Texto Blanco -->
-  <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=Abdelkarim%20Boukaid%20El%20Ghami&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Tech%20Lead%20@%20CodeEnergy.org%20%7C%20Software%20Architect&descSize=16&descAlignY=62" width="100%" alt="Header Banner" />
-  </p>
+**Español** &nbsp;·&nbsp; [English](./README.en.md) &nbsp;·&nbsp; [Français](./README.fr.md)
 
-  <!-- Badges Principales -->
-  <p align="center">
-    <a href="https://www.linkedin.com/in/abdelkarimboukaidelghami">
-      <img src="https://img.shields.io/badge/LinkedIn-Abdelkarim_Boukaid_EL_Ghami-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://codeenergy.org">
-      <img src="https://img.shields.io/badge/Official_Site-codeenergy.org-ffffff?style=for-the-badge&logo=firefox&logoColor=black" alt="CodeEnergy Website" />
-    </a>
-    <a href="mailto:info@codeenergy.org">
-      <img src="https://img.shields.io/badge/Email-info@codeenergy.org-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
+<a href="https://codeenergy.org">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/header-es-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/header-es-light.svg">
+    <img src="./assets/header-es-dark.svg" alt="Abdelkarim Boukaid El Ghami — Tech Lead & Software Architect" width="100%">
+  </picture>
+</a>
 
-  <p align="center">
-    <b>Transformando ideas de negocio en productos digitales de alto rendimiento.</b>
-  </p>
+<br>
+
+<a href="https://codeenergy.org"><img src="https://img.shields.io/badge/codeenergy.org-0D1117?style=flat-square&logo=googlechrome&logoColor=D6FF3F&labelColor=0D1117" alt="Sitio web"></a>
+<a href="https://www.linkedin.com/in/abdelkarimboukaidelghami"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=0D1117" alt="LinkedIn"></a>
+<a href="mailto:info@codeenergy.org"><img src="https://img.shields.io/badge/info@codeenergy.org-0D1117?style=flat-square&logo=maildotru&logoColor=EA4335&labelColor=0D1117" alt="Email"></a>
+<img src="https://img.shields.io/badge/Disponible_para_proyectos-0D1117?style=flat-square&logo=statuspage&logoColor=D6FF3F&labelColor=0D1117" alt="Disponibilidad">
 
 </div>
 
----
+<br>
 
-### 🌐 Sobre Mí & CodeEnergy
+> **La tecnología debe ser el motor, no el freno de tu negocio.**
+>
+> Diseño y construyo plataformas que aguantan crecimiento real: web, móvil e infraestructura cloud.
+> Más de **5 años** liderando equipos y **+150 proyectos** entregados para startups, pymes y emprendedores.
 
-> *"La tecnología debe ser el motor, no el freno de tu negocio."*
+<br>
 
-En **[CodeEnergy](https://codeenergy.org)**, no solo programamos; diseñamos estrategias digitales escalables. Con más de **5 años de experiencia** y **+150 proyectos entregados con éxito**, ayudo a startups, empresas y emprendedores a construir plataformas robustas con estándares de ingeniería de vanguardia.
+## Qué hago
 
----
+| Área | Qué entrego | Stack principal |
+| :--- | :--- | :--- |
+| **Producto web** | Plataformas SSR y headless, paneles internos, e-commerce y SaaS | Next.js · React · TypeScript |
+| **Aplicaciones móviles** | Apps nativas e híbridas publicadas en App Store y Google Play | Flutter · React Native |
+| **Infraestructura cloud** | Arquitectura serverless, CI/CD, observabilidad y control de coste | Google Cloud · Firebase · Node.js |
+| **Consultoría técnica** | Auditoría de código, rendimiento, seguridad y planes de migración | Lighthouse · Trivy · k6 |
 
-### 🛠️ Servicios de Alto Impacto
+<br>
 
-* 📱 **Desarrollo de Apps Móviles:** Soluciones nativas e híbridas con Flutter y React Native.
-* 💻 **Plataformas Web Escalables:** Desarrollo con Next.js, React, TypeScript y arquitecturas headless.
-* ☁️ **Infraestructura Cloud:** Especialista en Google Cloud y Firebase (escalabilidad garantizada).
-* 🧠 **Consultoría Tecnológica:** Auditoría de código, optimización de rendimiento y transformación digital.
+## Proyectos en producción
 
----
+| Proyecto | Qué es | Enlace |
+| :--- | :--- | :--- |
+| **AtlasCine** | Plataforma de contenido audiovisual con catálogo y reproducción en streaming | [atlascine.com](https://atlascine.com) |
+| **Bivu** | Producto digital orientado a servicio, con panel de gestión propio | [bivu.es](https://bivu.es) |
+| **CodeEnergy** | Estudio de ingeniería de software: estrategia, diseño y desarrollo | [codeenergy.org](https://codeenergy.org) |
 
-### 🔮 Stack Tecnológico
+<br>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <br />
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-</p>
+## Stack
 
----
+<table>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=0D1117" alt="Next.js">
+      <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB&labelColor=0D1117" alt="React">
+      <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=0D1117" alt="TypeScript">
+      <img src="https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwindcss&logoColor=38BDF8&labelColor=0D1117" alt="Tailwind CSS">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Móvil</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Flutter-0D1117?style=flat-square&logo=flutter&logoColor=02569B&labelColor=0D1117" alt="Flutter">
+      <img src="https://img.shields.io/badge/Dart-0D1117?style=flat-square&logo=dart&logoColor=0175C2&labelColor=0D1117" alt="Dart">
+      <img src="https://img.shields.io/badge/React_Native-0D1117?style=flat-square&logo=react&logoColor=61DAFB&labelColor=0D1117" alt="React Native">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=5FA04E&labelColor=0D1117" alt="Node.js">
+      <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1&labelColor=0D1117" alt="PostgreSQL">
+      <img src="https://img.shields.io/badge/Firestore-0D1117?style=flat-square&logo=firebase&logoColor=FFCA28&labelColor=0D1117" alt="Firestore">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Cloud &amp; DevOps</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Google_Cloud-0D1117?style=flat-square&logo=googlecloud&logoColor=4285F4&labelColor=0D1117" alt="Google Cloud">
+      <img src="https://img.shields.io/badge/Firebase-0D1117?style=flat-square&logo=firebase&logoColor=FFCA28&labelColor=0D1117" alt="Firebase">
+      <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED&labelColor=0D1117" alt="Docker">
+      <img src="https://img.shields.io/badge/GitHub_Actions-0D1117?style=flat-square&logo=githubactions&logoColor=2088FF&labelColor=0D1117" alt="GitHub Actions">
+    </td>
+  </tr>
+</table>
 
-### 🏢 Proyectos Destacados en Línea
+<br>
 
-* 🎬 **AtlasCine:** [`atlascine.com`](https://atlascine.com)
-* 🚀 **Bivu:** [`bivu.es`](https://bivu.es)
-* ⚡ **CodeEnergy:** [`codeenergy.org`](https://codeenergy.org)
+## Cómo trabajo
 
----
+<details>
+<summary><b>El proceso, en cuatro fases</b></summary>
 
-### 📊 GitHub Activity & Metrics
+<br>
 
-<!-- Reemplaza "TU_USUARIO_GITHUB" por tu nombre exacto de usuario en GitHub -->
+**1 · Descubrimiento.** Entiendo el negocio antes que el código. Objetivos, usuarios, restricciones y qué define el éxito.
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=codeenergy&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeenergy&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
+**2 · Arquitectura.** Decisiones escritas y justificadas: stack, modelo de datos, límites del sistema y coste estimado de operación.
 
----
+**3 · Entrega incremental.** Versiones funcionales desde la primera semana, con pruebas automatizadas y despliegue continuo.
 
-### 🤝 Conectemos & Escalemos Tu Proyecto
+**4 · Operación.** Monitorización, presupuesto de rendimiento y un plan claro de mantenimiento. El proyecto no termina al entregar.
 
-* 🌐 **Sitio Web Oficial:** [codeenergy.org](https://codeenergy.org)
-* 💼 **LinkedIn:** [Abdelkarim Boukaid El Ghami](https://www.linkedin.com/in/abdelkarimboukaidelghami)
-* ✉️ **Contacto Directo:** [info@codeenergy.org](mailto:info@codeenergy.org)
+</details>
 
-<!-- Banner Inferior Negro -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" width="100%" alt="Footer Banner" />
-</p>
+<details>
+<summary><b>Principios que no negocio</b></summary>
+
+<br>
+
+- **Rendimiento medible.** Core Web Vitals en verde y pruebas de carga antes de producción, no después.
+- **Seguridad por defecto.** Dependencias auditadas, secretos fuera del repositorio y mínimo privilegio.
+- **Código que otro pueda mantener.** Documentación de decisiones y cero dependencias que no se justifiquen.
+
+</details>
+
+<br>
+
+## Actividad
+
+<!-- Si prefieres no mostrar métricas mientras el perfil tenga pocos repositorios públicos, borra este bloque. -->
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=codeenergy&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=D6FF3F&icon_color=D6FF3F&text_color=A1A1AA">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=codeenergy&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=4D7C0F&icon_color=4D7C0F&text_color=3F3F46" alt="Estadísticas de GitHub">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=codeenergy&layout=compact&hide_border=true&bg_color=00000000&title_color=D6FF3F&text_color=A1A1AA">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeenergy&layout=compact&hide_border=true&bg_color=00000000&title_color=4D7C0F&text_color=3F3F46" alt="Lenguajes más usados">
+</picture>
+
+</div>
+
+<br>
+
+## Hablemos
+
+> [!NOTE]
+> Trabajo con un número limitado de clientes a la vez para mantener el nivel de entrega.
+> Si tienes un proyecto en mente, escríbeme con el contexto y te respondo con una primera valoración técnica sin compromiso.
+
+**Correo** · [info@codeenergy.org](mailto:info@codeenergy.org) &nbsp;&nbsp;|&nbsp;&nbsp; **Web** · [codeenergy.org](https://codeenergy.org) &nbsp;&nbsp;|&nbsp;&nbsp; **LinkedIn** · [Abdelkarim Boukaid El Ghami](https://www.linkedin.com/in/abdelkarimboukaidelghami)
+
+<br>
+
+<div align="center">
+<sub>Construido con criterio de ingeniería · <b>CodeEnergy</b></sub>
+</div>
