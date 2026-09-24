@@ -33,6 +33,7 @@
 | Área | Qué entrego | Stack principal |
 | :--- | :--- | :--- |
 | **Producto web** | Plataformas SSR y headless, paneles internos, e-commerce y SaaS | Next.js · React · TypeScript |
+| **Aplicaciones móviles** | Apps multiplataforma para iOS y Android, publicadas en App Store y Google Play | React Native · TypeScript |
 | **Interfaces de producto** | SPAs rápidas, diseño responsive, animación y visualización de datos | React · Vite · Tailwind |
 | **Integración de IA** | Funcionalidad generativa dentro del producto: contenido, asistentes y automatización | Google Gemini |
 | **Backend y pagos** | Autenticación, base de datos en tiempo real, APIs y cobros recurrentes | Firebase · Node.js · Stripe |
@@ -61,6 +62,12 @@
       <img src="https://img.shields.io/badge/Vite-0D1117?style=flat-square&logo=vite&logoColor=646CFF&labelColor=0D1117" alt="Vite">
       <img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=0D1117" alt="Next.js">
       <img src="https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwindcss&logoColor=38BDF8&labelColor=0D1117" alt="Tailwind">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Móvil</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React_Native-0D1117?style=flat-square&logo=react&logoColor=61DAFB&labelColor=0D1117" alt="React Native">
     </td>
   </tr>
   <tr>
