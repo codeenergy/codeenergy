@@ -33,7 +33,7 @@
 | Area | What I deliver | Core stack |
 | :--- | :--- | :--- |
 | **Web product** | SSR and headless platforms, internal dashboards, e-commerce and SaaS | Next.js · React · TypeScript |
-| **Mobile apps** | Cross-platform iOS and Android apps, shipped to the App Store and Google Play | React Native · TypeScript |
+| **Mobile apps** | iOS and Android apps built with Expo: authentication, push notifications and in-app subscriptions | React Native · Expo · TypeScript |
 | **Product interfaces** | Fast SPAs, responsive design, motion and data visualisation | React · Vite · Tailwind |
 | **AI integration** | Generative features inside the product: content, assistants and automation | Google Gemini |
 | **Backend and payments** | Authentication, realtime database, APIs and recurring billing | Firebase · Node.js · Stripe |
@@ -68,6 +68,8 @@
     <td><b>Mobile</b></td>
     <td>
       <img src="https://img.shields.io/badge/React_Native-0D1117?style=flat-square&logo=react&logoColor=61DAFB&labelColor=0D1117" alt="React Native">
+      <img src="https://img.shields.io/badge/Expo-0D1117?style=flat-square&logo=expo&logoColor=white&labelColor=0D1117" alt="Expo">
+      <img src="https://img.shields.io/badge/RevenueCat-0D1117?style=flat-square&logo=revenuecat&logoColor=FF5A5F&labelColor=0D1117" alt="RevenueCat">
     </td>
   </tr>
   <tr>

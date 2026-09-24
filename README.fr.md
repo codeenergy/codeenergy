@@ -33,7 +33,7 @@
 | Domaine | Ce que je livre | Stack principale |
 | :--- | :--- | :--- |
 | **Produit web** | Plateformes SSR et headless, back-offices, e-commerce et SaaS | Next.js · React · TypeScript |
-| **Applications mobiles** | Applications multiplateformes iOS et Android, publiées sur l'App Store et Google Play | React Native · TypeScript |
+| **Applications mobiles** | Applications iOS et Android avec Expo : authentification, notifications push et abonnements in-app | React Native · Expo · TypeScript |
 | **Interfaces produit** | SPAs rapides, design responsive, animation et visualisation de données | React · Vite · Tailwind |
 | **Intégration de l'IA** | Fonctionnalités génératives dans le produit : contenu, assistants et automatisation | Google Gemini |
 | **Backend et paiements** | Authentification, base de données temps réel, APIs et abonnements | Firebase · Node.js · Stripe |
@@ -68,6 +68,8 @@
     <td><b>Mobile</b></td>
     <td>
       <img src="https://img.shields.io/badge/React_Native-0D1117?style=flat-square&logo=react&logoColor=61DAFB&labelColor=0D1117" alt="React Native">
+      <img src="https://img.shields.io/badge/Expo-0D1117?style=flat-square&logo=expo&logoColor=white&labelColor=0D1117" alt="Expo">
+      <img src="https://img.shields.io/badge/RevenueCat-0D1117?style=flat-square&logo=revenuecat&logoColor=FF5A5F&labelColor=0D1117" alt="RevenueCat">
     </td>
   </tr>
   <tr>
