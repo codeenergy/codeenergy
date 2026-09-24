@@ -43,7 +43,7 @@
 
     <rect x="72" y="242" width="470" height="2" rx="1" fill="url(#rule)"/>
 
-    <text x="72" y="278" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, monospace" font-size="12.5" letter-spacing="0.6" fill="#71717A">+150 projets livr&#233;s &#160;&#183;&#160; 5+ ans &#160;&#183;&#160; Next.js &#183; Flutter &#183; Google Cloud</text>
+    <text x="72" y="278" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, monospace" font-size="12.5" letter-spacing="0.6" fill="#71717A">+150 projets livr&#233;s &#160;&#183;&#160; 5+ ans &#160;&#183;&#160; React &#183; TypeScript &#183; Next.js &#183; Firebase</text>
   </g>
   <rect x="0.5" y="0.5" width="1199" height="319" rx="17.5" stroke="#FFFFFF" stroke-opacity="0.08"/>
 </svg>

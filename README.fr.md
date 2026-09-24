@@ -33,8 +33,9 @@
 | Domaine | Ce que je livre | Stack principale |
 | :--- | :--- | :--- |
 | **Produit web** | Plateformes SSR et headless, back-offices, e-commerce et SaaS | Next.js · React · TypeScript |
-| **Applications mobiles** | Applications natives et hybrides publiées sur l'App Store et Google Play | Flutter · React Native |
-| **Infrastructure cloud** | Architecture serverless, CI/CD, observabilité et maîtrise des coûts | Google Cloud · Firebase · Node.js |
+| **Interfaces produit** | SPAs rapides, design responsive, animation et visualisation de données | React · Vite · Tailwind |
+| **Intégration de l'IA** | Fonctionnalités génératives dans le produit : contenu, assistants et automatisation | Google Gemini |
+| **Backend et paiements** | Authentification, base de données temps réel, APIs et abonnements | Firebase · Node.js · Stripe |
 | **Conseil technique** | Audit de code, performance, sécurité et plans de migration | Lighthouse · Trivy · k6 |
 
 <br>
@@ -55,35 +56,36 @@
   <tr>
     <td><b>Frontend</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=0D1117" alt="Next.js">
       <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB&labelColor=0D1117" alt="React">
       <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=0D1117" alt="TypeScript">
-      <img src="https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwindcss&logoColor=38BDF8&labelColor=0D1117" alt="Tailwind CSS">
+      <img src="https://img.shields.io/badge/Vite-0D1117?style=flat-square&logo=vite&logoColor=646CFF&labelColor=0D1117" alt="Vite">
+      <img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=0D1117" alt="Next.js">
+      <img src="https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwindcss&logoColor=38BDF8&labelColor=0D1117" alt="Tailwind">
     </td>
   </tr>
   <tr>
-    <td><b>Mobile</b></td>
+    <td><b>Interface et visualisation</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Flutter-0D1117?style=flat-square&logo=flutter&logoColor=02569B&labelColor=0D1117" alt="Flutter">
-      <img src="https://img.shields.io/badge/Dart-0D1117?style=flat-square&logo=dart&logoColor=0175C2&labelColor=0D1117" alt="Dart">
-      <img src="https://img.shields.io/badge/React_Native-0D1117?style=flat-square&logo=react&logoColor=61DAFB&labelColor=0D1117" alt="React Native">
+      <img src="https://img.shields.io/badge/Framer_Motion-0D1117?style=flat-square&logo=framer&logoColor=0055FF&labelColor=0D1117" alt="Framer Motion">
+      <img src="https://img.shields.io/badge/Three.js-0D1117?style=flat-square&logo=threedotjs&logoColor=white&labelColor=0D1117" alt="Three.js">
+      <img src="https://img.shields.io/badge/Recharts-0D1117?style=flat-square&logo=chartdotjs&logoColor=FF6384&labelColor=0D1117" alt="Recharts">
     </td>
   </tr>
   <tr>
-    <td><b>Backend</b></td>
+    <td><b>Backend et données</b></td>
     <td>
       <img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=5FA04E&labelColor=0D1117" alt="Node.js">
-      <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1&labelColor=0D1117" alt="PostgreSQL">
+      <img src="https://img.shields.io/badge/Express-0D1117?style=flat-square&logo=express&logoColor=white&labelColor=0D1117" alt="Express">
+      <img src="https://img.shields.io/badge/Firebase-0D1117?style=flat-square&logo=firebase&logoColor=FFCA28&labelColor=0D1117" alt="Firebase">
       <img src="https://img.shields.io/badge/Firestore-0D1117?style=flat-square&logo=firebase&logoColor=FFCA28&labelColor=0D1117" alt="Firestore">
     </td>
   </tr>
   <tr>
-    <td><b>Cloud &amp; DevOps</b></td>
+    <td><b>Cloud et services</b></td>
     <td>
       <img src="https://img.shields.io/badge/Google_Cloud-0D1117?style=flat-square&logo=googlecloud&logoColor=4285F4&labelColor=0D1117" alt="Google Cloud">
-      <img src="https://img.shields.io/badge/Firebase-0D1117?style=flat-square&logo=firebase&logoColor=FFCA28&labelColor=0D1117" alt="Firebase">
-      <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED&labelColor=0D1117" alt="Docker">
-      <img src="https://img.shields.io/badge/GitHub_Actions-0D1117?style=flat-square&logo=githubactions&logoColor=2088FF&labelColor=0D1117" alt="GitHub Actions">
+      <img src="https://img.shields.io/badge/Gemini-0D1117?style=flat-square&logo=googlegemini&logoColor=8E75B2&labelColor=0D1117" alt="Gemini">
+      <img src="https://img.shields.io/badge/Stripe-0D1117?style=flat-square&logo=stripe&logoColor=635BFF&labelColor=0D1117" alt="Stripe">
     </td>
   </tr>
 </table>
