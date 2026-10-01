@@ -1,0 +1,77 @@
+[
+  {
+    "type": "normal",
+    "backgroundColor": "#0a0a0a",
+    "foregroundColor": "#e5e7eb",
+    "strongColor": "#39FF14",
+    "weakColor": "#6b7280",
+    "radarColor": "#39FF14",
+    "growingAnimation": true,
+    "contribColors": [
+      "#1a1a1a",
+      "#0f5a06",
+      "#1a8f0b",
+      "#2acc0f",
+      "#39FF14"
+    ],
+    "fileName": "profile-codeenergy-es.svg",
+    "l10n": {
+      "commit": "Commits",
+      "repo": "Repositorios",
+      "review": "Revisiones",
+      "pullreq": "Pull requests",
+      "issue": "Issues",
+      "contrib": "contribuciones"
+    }
+  },
+  {
+    "type": "normal",
+    "backgroundColor": "#0a0a0a",
+    "foregroundColor": "#e5e7eb",
+    "strongColor": "#39FF14",
+    "weakColor": "#6b7280",
+    "radarColor": "#39FF14",
+    "growingAnimation": true,
+    "contribColors": [
+      "#1a1a1a",
+      "#0f5a06",
+      "#1a8f0b",
+      "#2acc0f",
+      "#39FF14"
+    ],
+    "fileName": "profile-codeenergy-en.svg",
+    "l10n": {
+      "commit": "Commits",
+      "repo": "Repositories",
+      "review": "Reviews",
+      "pullreq": "Pull requests",
+      "issue": "Issues",
+      "contrib": "contributions"
+    }
+  },
+  {
+    "type": "normal",
+    "backgroundColor": "#0a0a0a",
+    "foregroundColor": "#e5e7eb",
+    "strongColor": "#39FF14",
+    "weakColor": "#6b7280",
+    "radarColor": "#39FF14",
+    "growingAnimation": true,
+    "contribColors": [
+      "#1a1a1a",
+      "#0f5a06",
+      "#1a8f0b",
+      "#2acc0f",
+      "#39FF14"
+    ],
+    "fileName": "profile-codeenergy-fr.svg",
+    "l10n": {
+      "commit": "Commits",
+      "repo": "Dépôts",
+      "review": "Revues",
+      "pullreq": "Pull requests",
+      "issue": "Issues",
+      "contrib": "contributions"
+    }
+  }
+]

@@ -2,106 +2,41 @@
 
 [Español](./README.md) &nbsp;·&nbsp; [English](./README.en.md) &nbsp;·&nbsp; **Français**
 
-<a href="https://codeenergy.org">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/header-fr-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/header-fr-light.svg">
-    <img src="./assets/header-fr-dark.svg" alt="Abdelkarim Boukaid El Ghami — Tech Lead & Software Architect" width="100%">
-  </picture>
-</a>
+<br/>
 
-<br>
+<!-- ⚡ HERO -->
+<a href="https://codeenergy.org"><img src="./assets/hero-fr.svg" alt="CodeEnergy — agence IA de Abdelkarim Boukaid El Ghami" width="100%"/></a>
 
-<a href="https://codeenergy.org"><img src="https://img.shields.io/badge/codeenergy.org-0D1117?style=flat-square&logo=googlechrome&logoColor=D6FF3F&labelColor=0D1117" alt="Site web"></a>
-<a href="https://www.linkedin.com/in/abdelkarimboukaidelghami"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=0D1117" alt="LinkedIn"></a>
-<a href="mailto:info@codeenergy.org"><img src="https://img.shields.io/badge/info@codeenergy.org-0D1117?style=flat-square&logo=maildotru&logoColor=EA4335&labelColor=0D1117" alt="Email"></a>
-<img src="https://img.shields.io/badge/Disponible_pour_vos_projets-0D1117?style=flat-square&logo=statuspage&logoColor=D6FF3F&labelColor=0D1117" alt="Disponibilité">
+<br/><br/>
+
+<!-- 🛠 WHAT I BUILD · PORTFOLIO -->
+<img src="./assets/work-fr.svg" alt="Ce que je construis et des projets réels en production" width="100%"/>
+
+<br/><br/>
+
+<!-- ⚙️ TECH STACK -->
+<img src="./assets/stack-fr.svg" alt="Stack technique de CodeEnergy" width="100%"/>
+
+<br/><br/>
+
+<!-- 🪪 ID + DASHBOARD -->
+<img src="./assets/id-fr.svg" alt="Carte CodeEnergy et tableau du studio" width="100%"/>
+
+<br/><br/>
 
 </div>
 
-<br>
+## ⚡ Projets phares
 
-> **La technologie doit être le moteur de votre activité, pas son frein.**
->
-> Je conçois et construis des plateformes qui tiennent face à une croissance réelle : web, mobile et infrastructure cloud.
-> Plus de **5 ans** à diriger des équipes et **+150 projets** livrés pour des startups, des PME et des entrepreneurs.
+| Projet | De quoi s'agit-il | Stack | Statut |
+|:---|:---|:---|:---:|
+| [**AtlasCine**](https://atlascine.com) | Portail de films, séries et anime avec le catalogue réel de TMDB, en 4 langues (dont l’arabe RTL) | `JavaScript` `Firestore` `TMDB API` `GitHub Actions` `Vercel` | 🟢 En production |
+| [**Bivu**](https://www.bivu.es) | ERP avec IA pour PME : caisse, stock, CRM et facturation VERI\*FACTU, avec l’assistant Vega | `React 19` `TypeScript` `Vite` `Tailwind` `Firebase` `Gemini` `Stripe` | 🟢 En production |
+| [**YamYam IA**](https://yamyam.codeenergy.org) | Calories, recettes et entraînement dans une seule app, avec un chef IA | `React Native` `Expo` `TypeScript` `Firebase` `Gemini` | 🟡 Site en ligne · stores bientôt |
+| [**SpiderCode**](https://spidercode.codeenergy.org) | 60 jeux éducatifs et 3 000 niveaux pour les enfants de 5 à 12 ans | `React Native` `Expo` `TypeScript` `Firebase` `EAS` | 🟡 Site en ligne · stores bientôt |
+| [**CodeEnergy**](https://codeenergy.org) | Le site de l'agence : catalogue, paiements Stripe, espace client et automatisations n8n, en ES/EN/FR | `Next.js 16` `React 19` `Firebase` `Stripe` `n8n` `Vercel` | 🟢 En production |
 
-<br>
-
-## Ce que je fais
-
-| Domaine | Ce que je livre | Stack principale |
-| :--- | :--- | :--- |
-| **Produit web** | Plateformes SSR et headless, back-offices, e-commerce et SaaS | Next.js · React · TypeScript |
-| **Applications mobiles** | Applications iOS et Android avec Expo : authentification, notifications push et abonnements in-app | React Native · Expo · TypeScript |
-| **Interfaces produit** | SPAs rapides, design responsive, animation et visualisation de données | React · Vite · Tailwind |
-| **Intégration de l'IA** | Fonctionnalités génératives dans le produit : contenu, assistants et automatisation | Google Gemini |
-| **Backend et paiements** | Authentification, base de données temps réel, APIs et abonnements | Firebase · Node.js · Stripe |
-| **Conseil technique** | Audit de code, performance, sécurité et plans de migration | Lighthouse · Trivy · k6 |
-
-<br>
-
-## Projets en production
-
-| Projet | De quoi il s'agit | Lien |
-| :--- | :--- | :--- |
-| **AtlasCine** | Plateforme de contenu audiovisuel avec catalogue et lecture en streaming | [atlascine.com](https://atlascine.com) |
-| **Bivu** | Produit digital orienté service, avec son propre back-office | [bivu.es](https://bivu.es) |
-| **CodeEnergy** | Studio d'ingénierie logicielle : stratégie, design et développement | [codeenergy.org](https://codeenergy.org) |
-
-<br>
-
-## Stack
-
-<table>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB&labelColor=0D1117" alt="React">
-      <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=0D1117" alt="TypeScript">
-      <img src="https://img.shields.io/badge/Vite-0D1117?style=flat-square&logo=vite&logoColor=646CFF&labelColor=0D1117" alt="Vite">
-      <img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=0D1117" alt="Next.js">
-      <img src="https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwindcss&logoColor=38BDF8&labelColor=0D1117" alt="Tailwind">
-    </td>
-  </tr>
-  <tr>
-    <td><b>Mobile</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/React_Native-0D1117?style=flat-square&logo=react&logoColor=61DAFB&labelColor=0D1117" alt="React Native">
-      <img src="https://img.shields.io/badge/Expo-0D1117?style=flat-square&logo=expo&logoColor=white&labelColor=0D1117" alt="Expo">
-      <img src="https://img.shields.io/badge/RevenueCat-0D1117?style=flat-square&logo=revenuecat&logoColor=FF5A5F&labelColor=0D1117" alt="RevenueCat">
-    </td>
-  </tr>
-  <tr>
-    <td><b>Interface et visualisation</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Framer_Motion-0D1117?style=flat-square&logo=framer&logoColor=0055FF&labelColor=0D1117" alt="Framer Motion">
-      <img src="https://img.shields.io/badge/Three.js-0D1117?style=flat-square&logo=threedotjs&logoColor=white&labelColor=0D1117" alt="Three.js">
-      <img src="https://img.shields.io/badge/Recharts-0D1117?style=flat-square&logo=chartdotjs&logoColor=FF6384&labelColor=0D1117" alt="Recharts">
-    </td>
-  </tr>
-  <tr>
-    <td><b>Backend et données</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=5FA04E&labelColor=0D1117" alt="Node.js">
-      <img src="https://img.shields.io/badge/Express-0D1117?style=flat-square&logo=express&logoColor=white&labelColor=0D1117" alt="Express">
-      <img src="https://img.shields.io/badge/Firebase-0D1117?style=flat-square&logo=firebase&logoColor=FFCA28&labelColor=0D1117" alt="Firebase">
-      <img src="https://img.shields.io/badge/Firestore-0D1117?style=flat-square&logo=firebase&logoColor=FFCA28&labelColor=0D1117" alt="Firestore">
-    </td>
-  </tr>
-  <tr>
-    <td><b>Cloud et services</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Google_Cloud-0D1117?style=flat-square&logo=googlecloud&logoColor=4285F4&labelColor=0D1117" alt="Google Cloud">
-      <img src="https://img.shields.io/badge/Gemini-0D1117?style=flat-square&logo=googlegemini&logoColor=8E75B2&labelColor=0D1117" alt="Gemini">
-      <img src="https://img.shields.io/badge/Stripe-0D1117?style=flat-square&logo=stripe&logoColor=635BFF&labelColor=0D1117" alt="Stripe">
-    </td>
-  </tr>
-</table>
-
-<br>
-
-## Ma méthode
+## 🧭 Ma méthode
 
 <details>
 <summary><b>Le processus, en quatre phases</b></summary>
@@ -129,27 +64,40 @@
 
 </details>
 
-<br>
-
-## Code et confidentialité
-
 > [!NOTE]
 > L'essentiel de mon travail se trouve dans des dépôts clients privés, sous accord de confidentialité.
-> Ce que vous pouvez évaluer est en production : **[atlascine.com](https://atlascine.com)**, **[bivu.es](https://bivu.es)** et **[codeenergy.org](https://codeenergy.org)**.
+> Ce que vous pouvez évaluer est en production : **[atlascine.com](https://atlascine.com)**, **[bivu.es](https://www.bivu.es)** et **[codeenergy.org](https://codeenergy.org)**.
 > Si vous devez examiner du code avant de travailler avec moi, écrivez-moi et je prépare un extrait représentatif ou une présentation technique.
 
-<br>
-
-## Parlons-en
-
-> [!NOTE]
-> Je travaille avec un nombre limité de clients à la fois afin de maintenir le niveau de livraison.
-> Si vous avez un projet en tête, écrivez-moi avec le contexte et je vous réponds par une première évaluation technique, sans engagement.
-
-**E-mail** · [info@codeenergy.org](mailto:info@codeenergy.org) &nbsp;&nbsp;|&nbsp;&nbsp; **Web** · [codeenergy.org](https://codeenergy.org) &nbsp;&nbsp;|&nbsp;&nbsp; **LinkedIn** · [Abdelkarim Boukaid El Ghami](https://www.linkedin.com/in/abdelkarimboukaidelghami)
-
-<br>
-
 <div align="center">
-<sub>Conçu avec une exigence d'ingénierie · <b>CodeEnergy</b></sub>
+
+<br/>
+
+## 🌃 Ma ville de contributions
+
+*Chaque commit élève une nouvelle tour — régénérée automatiquement chaque jour.*
+
+<img src="./profile-3d-contrib/profile-codeenergy-fr.svg" alt="Ville 3D des contributions" width="100%"/>
+
+<br/><br/>
+
+<!-- 💬 CONTACT -->
+<img src="./assets/connect-fr.svg" alt="Parlons" width="100%"/>
+
+<a href="https://codeenergy.org"><img src="https://img.shields.io/badge/codeenergy.org-39FF14?style=for-the-badge&logo=googlechrome&logoColor=0a0a0a" alt="Web"/></a>
+<a href="mailto:hello@codeenergy.org"><img src="https://img.shields.io/badge/Email-39FF14?style=for-the-badge&logo=gmail&logoColor=0a0a0a" alt="Email"/></a>
+<a href="https://www.linkedin.com/company/codeenergyorg/"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzM5RkYxNCIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMSAxIDAtNC4xMjUgMi4wNjIgMi4wNjIgMCAwIDEgMCA0LjEyNXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/codeenergyorg/"><img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=39FF14" alt="Instagram"/></a>
+<a href="https://wa.me/34624896606"><img src="https://img.shields.io/badge/WhatsApp-111111?style=for-the-badge&logo=whatsapp&logoColor=39FF14" alt="WhatsApp"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=codeenergy&color=39FF14&style=for-the-badge&label=VUES+DU+PROFIL" alt="Profile views"/>
+
+<br/><br/>
+
+**Construit avec une rigueur d’ingénieur.** ⚡
+
+<sub>Tech Lead & Software Architect · <a href="https://www.linkedin.com/in/abdelkarimboukaidelghami">Abdelkarim Boukaid El Ghami</a></sub>
+
 </div>
